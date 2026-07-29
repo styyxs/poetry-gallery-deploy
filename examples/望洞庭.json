@@ -1,0 +1,53 @@
+{
+  "title": "望洞庭",
+  "author": "刘禹锡",
+  "dynasty": "唐",
+  "palette": "静谧月夜",
+  "tags": ["山水", "月", "秋", "湖"],
+  "card_cover_prompt": "国风动漫风格，电影级光影。洞庭湖秋夜的全景图：月亮高悬天空，湖面如未磨的银镜，平静如镜，远处的君山像一颗青绿色的小螺丝静静坐在银盘一样的月亮倒影里。画面要开阔、梦幻、深蓝色调为主，配暖黄色的月光点缀。cinematic lighting, traditional Chinese ink painting style merged with modern anime aesthetics, dramatic moonlit lake scene",
+  "lines": [
+    {
+      "original": "湖光秋月两相和",
+      "translation": "秋天晚上，洞庭湖的水光和天上月光相互融合，好温柔呀。",
+      "tts_explanation": "这句话的意思是：在一个秋天的晚上，洞庭湖的水光和天上的月亮光相互融合在一起，看上去可温柔可美啦。",
+      "image_prompt": "A serene wide Chinese lake (Dongting Lake) at autumn night, soft golden moonlight shimmering on the calm water surface, the lake and the sky blending into one silver-blue horizon, a few tiny lotus leaves floating, distant misty mountains in the background, watercolor soft glow"
+    },
+    {
+      "original": "潭面无风镜未磨",
+      "translation": "湖面没有风，平平静静的，就像一面还没磨过的铜镜。",
+      "tts_explanation": "这句话的意思是：湖面上没有一丝风，平静得就像一面还没磨过的铜镜，朦朦胧胧的，映着月光。",
+      "image_prompt": "A perfectly still unrippled Chinese lake surface at night, acting as a natural mirror that softly reflects the bright full moon and the mountain silhouette, the reflection slightly hazy and dreamy like an unpolished bronze mirror, tiny lotus leaves on the water"
+    },
+    {
+      "original": "遥望洞庭山水翠",
+      "translation": "远远望去，洞庭湖的山水一片青绿色，像翡翠一样碧绿。",
+      "tts_explanation": "这句话的意思是：远远地望去，洞庭湖的山水一片青绿色，就像翡翠宝石一样，碧绿碧绿的。",
+      "image_prompt": "A small chubby 5-year-old Chinese boy standing on a wooden boat dock in traditional Hanfu clothes, looking out across a vast jade-green Chinese lake (Dongting Lake), surrounded by lush emerald mountains and dark green pine forests, an old Chinese fisherman silhouette on a tiny wooden boat in the distance, bright full moon rising"
+    },
+    {
+      "original": "白银盘里一青螺",
+      "translation": "天上的月亮像银白色大圆盘，湖里小山像盘子里的一颗青色小螺丝。",
+      "tts_explanation": "这句话的意思是：天上的月亮就像一个亮闪闪的银白色大圆盘，而湖里的小山就像银盘里的一颗青色小螺丝壳，可漂亮啦。",
+      "image_prompt": "A magical bird's eye view of a round bright full moon reflected as a silver plate on the lake surface, a tiny green cone-shaped island (like an emerald snail) sitting perfectly in the center of the moon's reflection, surrounded by soft silver ripples, dreamy and whimsical scene"
+    }
+  ],
+  "story": "很久很久以前，有一个叫刘禹锡的唐代大诗人，他非常非常聪明，从小就爱读书。\n\n有一天晚上，刘禹锡坐着小船来到洞庭湖边上。那是一个秋天的夜晚，天气特别好，湖面上一点风都没有，天上挂着一轮又大又圆的月亮。\n\n他望着眼前的湖水和高高的君山，一下子就想到了好美的画面：湖面就像一面还没磨过的镜子，朦朦胧胧地映着月光；远处的山水一片青绿；天上那枚银盘一样的月亮倒影里，静静地坐着一个小小的青绿色山丘，像一颗小螺丝。\n\n于是他写下了这首《望洞庭》，把月光、湖水和远山都装进了诗里。读着他的诗，就像能闻到秋天夜晚凉凉的空气，看到那枚青绿色的小山安静地坐在银盘子一样的月亮倒影里。",
+  "story_tts": "很久很久以前，有一个叫刘禹锡的唐代大诗人，他非常非常聪明，从小就爱读书。一天晚上，刘禹锡坐着小船来到洞庭湖边上。那是一个秋天的夜晚，天气特别好，湖面上一点风都没有，天上挂着一轮又大又圆的月亮。他望着眼前的湖水和高高的君山，一下子就想到了好美的画面：湖面就像一面还没磨过的镜子，朦朦胧胧地映着月光；远处的山水一片青绿；天上那枚银盘一样的月亮倒影里，静静地坐着一个小小的青绿色山丘，像一颗小螺丝。于是他写下了这首《望洞庭》，把月光、湖水和远山都装进了诗里。",
+  "facts": [
+    {
+      "emoji": "🏞️",
+      "title": "洞庭湖在哪里？",
+      "body": "洞庭湖在中国的湖南省，是中国第二大淡水湖。古时候它超级大，比现在大 8 倍多，连小朋友们都知道的「八百里洞庭」就是说的它。"
+    },
+    {
+      "emoji": "🌙",
+      "title": "为什么说「镜未磨」？",
+      "body": "古时候的镜子是铜做的，刚做出来的时候朦朦胧胧，要磨亮才能照人。刘禹锡说湖面像没磨过的铜镜，是因为水面又静又朦，映出来的影子柔柔的。"
+    },
+    {
+      "emoji": "🐚",
+      "title": "「青螺」是什么？",
+      "body": "青螺就是青绿色的小海螺，圆圆的有螺纹。这里刘禹锡把湖里的小山比作一颗青绿色的小螺丝壳，圆圆地坐在银盘一样的月亮倒影里。"
+    }
+  ]
+}
