@@ -1,0 +1,52 @@
+{
+  "title": "诗题（必填·严格匹配诗名）",
+  "author": "作者（必填·如：刘禹锡）",
+  "dynasty": "朝代（必填·如：唐）",
+  "palette": "色系（可选·5 选 1，默认 静谧月夜）",
+  "card_cover_prompt": "card_cover 国风动漫图的英文场景描述（必填·16:9 2K）",
+  "lines": [
+    {
+      "original": "第 1 句原文（必填）",
+      "translation": "第 1 句白话译文（必填·3-7 岁能听懂）",
+      "tts_explanation": "第 1 句 TTS 讲解文本（必填·不能带 \\n）",
+      "image_prompt": "第 1 句内页英文场景描述（必填·1:1）"
+    },
+    {
+      "original": "第 2 句原文（必填）",
+      "translation": "第 2 句白话译文（必填）",
+      "tts_explanation": "第 2 句 TTS 讲解文本（必填）",
+      "image_prompt": "第 2 句内页英文场景描述（必填）"
+    },
+    {
+      "original": "第 3 句原文（必填）",
+      "translation": "第 3 句白话译文（必填）",
+      "tts_explanation": "第 3 句 TTS 讲解文本（必填）",
+      "image_prompt": "第 3 句内页英文场景描述（必填）"
+    },
+    {
+      "original": "第 4 句原文（必填）",
+      "translation": "第 4 句白话译文（必填）",
+      "tts_explanation": "第 4 句 TTS 讲解文本（必填）",
+      "image_prompt": "第 4 句内页英文场景描述（必填）"
+    }
+  ],
+  "story": "诗人小故事（必填·HTML 显示用，\\n\\n 段落分隔）",
+  "story_tts": "故事 TTS 朗读文本（必填·不能带 \\n，连续叙述）",
+  "facts": [
+    {
+      "emoji": "🏞️",
+      "title": "知识卡 1 标题（必填）",
+      "body": "知识卡 1 正文（必填·1 句话简短有趣）"
+    },
+    {
+      "emoji": "🌙",
+      "title": "知识卡 2 标题（必填）",
+      "body": "知识卡 2 正文（必填）"
+    },
+    {
+      "emoji": "🐚",
+      "title": "知识卡 3 标题（必填）",
+      "body": "知识卡 3 正文（必填）"
+    }
+  ]
+}
